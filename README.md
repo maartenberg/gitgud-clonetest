@@ -1,5 +1,5 @@
 # gitgud-clonetest
-Lekker knutselen!
+Zet je naam op de lijst!
 
 De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 
