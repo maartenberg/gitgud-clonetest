@@ -11,3 +11,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Lex Nagtegaal (#10 in Mongoose)
 - Lucas Steehouwer
 - Frederique van der Kooij
+- Menno Duijnstee (godheid)
