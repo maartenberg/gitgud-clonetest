@@ -13,3 +13,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Frederique van der Kooij
 - Menno Duijnstee (godheid)
 - Roman Peters
+- Jorrit Drewes
