@@ -10,3 +10,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Curtis Chin Jen Sem
 - Lex Nagtegaal (#10 in Mongoose)
 - Lucas Steehouwer
+- Frederique van der Kooij
