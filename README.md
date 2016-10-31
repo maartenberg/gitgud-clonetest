@@ -19,3 +19,5 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Robin "The one and only, The legend" Sikkens
 - Colin de Roos
 - #YoloMcSwagger
+- Thomas Kok
+
