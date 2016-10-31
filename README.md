@@ -15,3 +15,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Roman Peters
 - Jorrit Drewes
 - Tom Wassenberg
+- Florian Nouwt
