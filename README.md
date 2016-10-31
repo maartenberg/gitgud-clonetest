@@ -14,3 +14,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Menno Duijnstee (godheid)
 - Roman Peters
 - Jorrit Drewes
+- Lotte van Horssen
