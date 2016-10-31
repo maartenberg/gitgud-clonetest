@@ -29,3 +29,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Ruud Verbeek
 - Toby Hendrikman
 - Lotte van Horssen
+- Rick van de Bovenkamp
