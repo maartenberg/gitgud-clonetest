@@ -17,3 +17,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Tom Wassenberg
 - Florian Nouwt
 - Robin "The one and only, The legend" Sikkens
+- Colin de Roos
