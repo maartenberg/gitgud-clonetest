@@ -20,4 +20,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Colin de Roos
 - #YoloMcSwagger
 - Thomas Kok
-
+- Yorick van Zweeden (Bestuur 11 Hoogh!)
