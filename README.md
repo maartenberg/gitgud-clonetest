@@ -30,3 +30,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Toby Hendrikman
 - Lotte van Horssen
 - Rick van de Bovenkamp
+- Bart Wijgers, Esther Oosterveer, Luuk Hackers, Nick Mulder, Tijmen van ter Beek (want wij zijn allen fantastisch)
