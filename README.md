@@ -22,3 +22,5 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - #YoloMcSwagger
 - Thomas Kok
 - Yorick van Zweeden (Bestuur 11 Hoogh!)
+- Max Groot
+- Nick van Bremen
