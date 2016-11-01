@@ -25,3 +25,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Max Groot
 - Nick van Bremen
 - Floris Roelofs (de echte Floris)
+- Max
