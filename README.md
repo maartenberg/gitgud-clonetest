@@ -27,3 +27,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Floris Roelofs (de echte Floris)
 - Max
 - Ruud Verbeek
+- Toby Hendrikman
