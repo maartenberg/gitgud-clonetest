@@ -42,3 +42,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Merijn Stiekema :)
 - Peter Schipper
 - kameraad
+- Olaf van der Aart
