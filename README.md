@@ -39,3 +39,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - hello hello
 - Bart Hageman
 - Laurie Spapens
+- Merijn Stiekema :)
