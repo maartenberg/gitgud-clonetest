@@ -45,3 +45,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Olaf van der Aart
 - Thijs den Hartog
 - musicismyalibi(☭ ͜ʖ ☭)
+- Daan van Dongen
