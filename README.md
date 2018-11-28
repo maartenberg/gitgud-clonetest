@@ -3,6 +3,9 @@ Zet je naam op de lijst!
 
 De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 
+- Tjibbe Bolhuis
+- Daan Melchior van Elburg
+- Anisha en de chardoboys
 - Emilius Maximus
 - Maarten van den Berg
 - Lars Verhoeven (naamdonateur)
