@@ -40,3 +40,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Bart Hageman
 - Laurie Spapens
 - Merijn Stiekema :)
+- Peter Schipper
