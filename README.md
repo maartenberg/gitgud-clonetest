@@ -43,3 +43,4 @@ De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 - Peter Schipper
 - kameraad
 - Olaf van der Aart
+- Thijs den Hartog
